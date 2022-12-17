@@ -1,7 +1,7 @@
 # PepeTheProg
 
 ## ✅ Landing Page: 
-[Ссылка на лендинг](ссылка)
+[Ссылка на лендинг](https://modernclown.github.io/PepeLandingPage/)
 
 ## ✅ Состав команды:
 
